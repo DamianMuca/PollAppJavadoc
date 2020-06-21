@@ -1,0 +1,11 @@
+pl.com.muca.server
+pl.com.muca.server.dao.poll
+pl.com.muca.server.dao.question
+pl.com.muca.server.dao.user
+pl.com.muca.server.dao.useranswer
+pl.com.muca.server.dao.userswhoansweredpoll
+pl.com.muca.server.encryption
+pl.com.muca.server.entity
+pl.com.muca.server.service
+pl.com.muca.server.useranswershashcodegenerator
+pl.com.muca.server.usercontroller
